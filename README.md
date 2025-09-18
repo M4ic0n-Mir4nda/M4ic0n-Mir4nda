@@ -3,8 +3,6 @@
 Tenho 2 anos de experiência na área da programação, tendo como principais conhecimentos em Python e NodeJS/Typescript, já participei de projetos de pequeno e médio porte para aplicações desktop, web e automação. 
 Durante minha trajetória, desenvolvi habilidades sólidas como desenvolvedor de software, resolução eficiente de problemas e analise de dados.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4ic0n-Mir4nda&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&hide=stars&title_color=E94D5F&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=M4ic0n-Mir4nda&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ## Habilidades
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
